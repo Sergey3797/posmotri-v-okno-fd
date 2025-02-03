@@ -313,4 +313,6 @@ ol {
   outline: 1px solid #fff
 }
 
-
+.content__card-link_current {
+  background-color: #545050;
+}
